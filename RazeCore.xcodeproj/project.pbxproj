@@ -52,6 +52,7 @@
 		0200A83D2480113900C066D1 /* RazeCore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RazeCore.swift; sourceTree = "<group>"; };
 		0200A83F248011C700C066D1 /* RazeNetworkingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RazeNetworkingTests.swift; sourceTree = "<group>"; };
 		0200A8412480124A00C066D1 /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
+		0200A843248026A600C066D1 /* RazeCore.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RazeCore.podspec; sourceTree = "<group>"; };
 		OBJ_12 /* RazeColorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RazeColorTests.swift; sourceTree = "<group>"; };
 		OBJ_13 /* XCTestManifests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestManifests.swift; sourceTree = "<group>"; };
 		OBJ_17 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -111,6 +112,7 @@
 		OBJ_5 /*  */ = {
 			isa = PBXGroup;
 			children = (
+				0200A843248026A600C066D1 /* RazeCore.podspec */,
 				OBJ_6 /* Package.swift */,
 				OBJ_7 /* Sources */,
 				OBJ_10 /* Tests */,
